@@ -1,0 +1,41 @@
+text,labels,message_id,language,source,skin_profile,cosmetic_goal,ingredient_avoidance,budget,product_preference,product_recommendation
+Tengo piel grasa y busco una crema hidratante,"['skin_profile', 'cosmetic_goal', 'product_recommendation']",es_0001,es,synthetic,1,1,0,0,0,1
+Quiero un limpiador para piel sensible,"['skin_profile', 'product_recommendation']",es_0002,es,synthetic,1,0,0,0,0,1
+Busco un hidratante sin fragancia,"['ingredient_avoidance', 'product_recommendation']",es_0003,es,synthetic,0,0,1,0,0,1
+No quiero productos con perfume,['ingredient_avoidance'],es_0004,es,synthetic,0,0,1,0,0,0
+Mi presupuesto máximo es de 400 pesos,['budget'],es_0005,es,synthetic,0,0,0,1,0,0
+Quiero una crema ligera para piel mixta,"['skin_profile', 'product_preference', 'product_recommendation']",es_0006,es,synthetic,1,0,0,0,1,1
+Necesito algo para hidratar la piel seca,"['skin_profile', 'cosmetic_goal', 'product_recommendation']",es_0007,es,synthetic,1,1,0,0,0,1
+Busco un gel facial que no deje sensación grasosa,"['product_preference', 'product_recommendation']",es_0008,es,synthetic,0,0,0,0,1,1
+Tengo piel sensible y quiero evitar fragancias,"['skin_profile', 'ingredient_avoidance']",es_0009,es,synthetic,1,0,1,0,0,0
+¿Qué protector solar me recomiendas?,['product_recommendation'],es_0010,es,synthetic,0,0,0,0,0,1
+Quiero controlar el brillo de mi rostro,['cosmetic_goal'],es_0011,es,synthetic,0,1,0,0,0,0
+Busco un sérum para mejorar la apariencia de manchas,"['cosmetic_goal', 'product_recommendation']",es_0012,es,synthetic,0,1,0,0,0,1
+Necesito una crema por menos de 500 pesos,"['budget', 'product_recommendation']",es_0013,es,synthetic,0,0,0,1,0,1
+Prefiero productos de textura gel,['product_preference'],es_0014,es,synthetic,0,0,0,0,1,0
+Tengo piel mixta y quiero una rutina sencilla,['skin_profile'],es_0015,es,synthetic,1,0,0,0,0,0
+Recomiéndame un hidratante sin perfume para piel grasa,"['skin_profile', 'ingredient_avoidance', 'product_recommendation']",es_0016,es,synthetic,1,0,1,0,0,1
+Busco productos económicos para mi rutina facial,['budget'],es_0017,es,synthetic,0,0,0,1,0,0
+Quiero una crema que se absorba rápido,"['product_preference', 'product_recommendation']",es_0018,es,synthetic,0,0,0,0,1,1
+Mi piel es seca y necesito hidratación,"['skin_profile', 'cosmetic_goal']",es_0019,es,synthetic,1,1,0,0,0,0
+¿Qué limpiador facial puedo comprar?,['product_recommendation'],es_0020,es,synthetic,0,0,0,0,0,1
+Quiero evitar el alcohol secante en mis productos,['ingredient_avoidance'],es_0021,es,synthetic,0,0,1,0,0,0
+Tengo piel grasa y mi presupuesto es de 300 pesos,"['skin_profile', 'budget']",es_0022,es,synthetic,1,0,0,1,0,0
+Necesito un producto ligero para hidratar mi piel,"['cosmetic_goal', 'product_preference', 'product_recommendation']",es_0023,es,synthetic,0,1,0,0,1,1
+Busco una crema facial sin fragancia de menos de 400 pesos,"['ingredient_avoidance', 'budget', 'product_recommendation']",es_0024,es,synthetic,0,0,1,1,0,1
+Mi piel es sensible y prefiero una fórmula sin perfume,"['skin_profile', 'ingredient_avoidance', 'product_preference']",es_0025,es,synthetic,1,0,1,0,1,0
+Quiero comprar un protector solar facial,['product_recommendation'],es_0026,es,synthetic,0,0,0,0,0,1
+Necesito hidratación y no me gustan las cremas pesadas,"['cosmetic_goal', 'product_preference']",es_0027,es,synthetic,0,1,0,0,1,0
+Tengo piel normal y busco una crema ligera,"['skin_profile', 'product_preference', 'product_recommendation']",es_0028,es,synthetic,1,0,0,0,1,1
+No quiero gastar más de 250 pesos en un limpiador,"['budget', 'product_recommendation']",es_0029,es,synthetic,0,0,0,1,0,1
+Busco un producto facial para una rutina de mañana,['product_recommendation'],es_0030,es,synthetic,0,0,0,0,0,1
+Quiero controlar la apariencia de grasa sin una textura pesada,"['cosmetic_goal', 'product_preference']",es_0031,es,synthetic,0,1,0,0,1,0
+Recomiéndame una crema hidratante para piel seca,"['skin_profile', 'cosmetic_goal', 'product_recommendation']",es_0032,es,synthetic,1,1,0,0,0,1
+Busco un hidratante económico sin fragancia,"['budget', 'ingredient_avoidance', 'product_recommendation']",es_0033,es,synthetic,0,0,1,1,0,1
+Prefiero un producto facial en gel y sin perfume,"['product_preference', 'ingredient_avoidance']",es_0034,es,synthetic,0,0,1,0,1,0
+Tengo piel grasa y quiero una rutina de cuidado,['skin_profile'],es_0035,es,synthetic,1,0,0,0,0,0
+Necesito un producto que cueste máximo 350 pesos,['budget'],es_0036,es,synthetic,0,0,0,1,0,0
+Quiero una fórmula sin fragancia para piel sensible,"['skin_profile', 'ingredient_avoidance']",es_0037,es,synthetic,1,0,1,0,0,0
+¿Puedes recomendarme un sérum para mi rutina?,['product_recommendation'],es_0038,es,synthetic,0,0,0,0,0,1
+Busco un hidratante de textura ligera que no sea pesado,"['product_preference', 'product_recommendation']",es_0039,es,synthetic,0,0,0,0,1,1
+Quiero mejorar la apariencia de mi piel opaca,['cosmetic_goal'],es_0040,es,synthetic,0,1,0,0,0,0
