@@ -91,3 +91,19 @@ Se calculan:
 - Tiempo de carga y memoria de GPU cuando corresponda.
 
 Los umbrales de clasificación se ajustan con el conjunto de validación, no con el conjunto de prueba.
+
+Resultados y conclusiones
+
+Los resultados experimentales se documentarán en results/model_comparison.csv y en el reporte técnico.
+
+La selección final del modelo se basará en las métricas obtenidas, los errores por intención, la latencia, los recursos disponibles y las condiciones de licencia.
+
+No se asignará un ganador antes de ejecutar y analizar el experimento. Las métricas publicadas en otros conjuntos de datos no se considerarán resultados propios de Glow AI.
+
+Limitaciones y seguridad
+- El dataset sintético es una herramienta de evaluación preliminar y no garantiza el desempeño con clientes reales.
+- La identificación de una intención no equivale a extraer correctamente todos sus atributos.
+- Los ingredientes, precios y disponibilidad deben comprobarse en un catálogo verificado.
+- El asistente no diagnostica enfermedades ni sustituye la atención dermatológica.
+- Las consultas sobre reacciones adversas o posibles problemas médicos deben derivarse a un profesional adecuado.
+- No deben publicarse tokens, credenciales ni datos personales.
