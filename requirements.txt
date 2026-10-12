@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+datasets
+evaluate
+scikit-learn
+huggingface_hub
+safetensors
+pandas
+numpy
+matplotlib
